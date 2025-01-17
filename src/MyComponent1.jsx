@@ -6,8 +6,14 @@ function MyComponent1(){
             <div className="nav-bar">
                 <div className="text-logo">G-Ainc</div>
                 <div className="menu">   
-                        <a href="">Home</a>
-                        <a href="">My-works</a>
+                    <div>
+                    <a href="#myWhghorks">My-works</a>
+                    </div>
+                    <div>
+                    <a href="#knowMore">Home</a>
+                    </div>
+                        
+                        
                         <a href="">Book</a>    
                 </div> 
                 <button className='contactUs'>contact us</button>

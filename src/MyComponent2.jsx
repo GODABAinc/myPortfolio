@@ -5,7 +5,7 @@ import airCleaning from './assets/aircleaning.jpg'
 function MyComponent2(){
 
     return(
-        <div className='profile1'>
+        <div className='profile1' id='myWorks'>
             <img   className='img1' src={airCleaning}/>
             <div className='imgText'>
                 <span className='t1'>Hello I'm</span> <br />

@@ -6,7 +6,7 @@ import {FaBeer, FaCertificate, FaPeopleCarry, FaQuoteRight, FaRadiation, FaRegId
 function MyComponent4(){
 
     return(
-        <div>
+        <div id="knowMore">
             <div className='imgText1'>
                 <span className='t4'>Get to know more</span> <br />
                 <span className='t5'>About Me</span>
