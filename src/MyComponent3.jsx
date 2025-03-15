@@ -8,7 +8,7 @@ function MyComponent3(){
                 <div className='col'>
                     <h2>G-Ainc</h2>
                     <p>
-                        Give your company, product or community a good brand and exposure to the world.
+                        Give your company, product or communityv a good brand and exposure to the world.
                     </p>
                 </div>
                 <div className='col'>
